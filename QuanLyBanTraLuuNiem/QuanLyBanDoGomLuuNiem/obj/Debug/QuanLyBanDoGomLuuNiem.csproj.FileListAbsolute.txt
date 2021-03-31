@@ -1,0 +1,16 @@
+C:\Users\Truong Nguyen\source\repos\QuanLyBanDoGomLuuNiem\QuanLyBanDoGomLuuNiem\bin\Debug\QuanLyBanDoGomLuuNiem.exe.config
+C:\Users\Truong Nguyen\source\repos\QuanLyBanDoGomLuuNiem\QuanLyBanDoGomLuuNiem\bin\Debug\QuanLyBanDoGomLuuNiem.exe
+C:\Users\Truong Nguyen\source\repos\QuanLyBanDoGomLuuNiem\QuanLyBanDoGomLuuNiem\bin\Debug\QuanLyBanDoGomLuuNiem.pdb
+C:\Users\Truong Nguyen\source\repos\QuanLyBanDoGomLuuNiem\QuanLyBanDoGomLuuNiem\obj\Debug\QuanLyBanDoGomLuuNiem.csprojAssemblyReference.cache
+C:\Users\Truong Nguyen\source\repos\QuanLyBanDoGomLuuNiem\QuanLyBanDoGomLuuNiem\obj\Debug\QuanLyBanDoGomLuuNiem.frm_DMChatLieu.resources
+C:\Users\Truong Nguyen\source\repos\QuanLyBanDoGomLuuNiem\QuanLyBanDoGomLuuNiem\obj\Debug\QuanLyBanDoGomLuuNiem.frm_DMHangHoa.resources
+C:\Users\Truong Nguyen\source\repos\QuanLyBanDoGomLuuNiem\QuanLyBanDoGomLuuNiem\obj\Debug\QuanLyBanDoGomLuuNiem.frm_DMKhachHang.resources
+C:\Users\Truong Nguyen\source\repos\QuanLyBanDoGomLuuNiem\QuanLyBanDoGomLuuNiem\obj\Debug\QuanLyBanDoGomLuuNiem.frm_DMNhanVien.resources
+C:\Users\Truong Nguyen\source\repos\QuanLyBanDoGomLuuNiem\QuanLyBanDoGomLuuNiem\obj\Debug\QuanLyBanDoGomLuuNiem.frm_HoaDonBanHang.resources
+C:\Users\Truong Nguyen\source\repos\QuanLyBanDoGomLuuNiem\QuanLyBanDoGomLuuNiem\obj\Debug\QuanLyBanDoGomLuuNiem.frm_Main.resources
+C:\Users\Truong Nguyen\source\repos\QuanLyBanDoGomLuuNiem\QuanLyBanDoGomLuuNiem\obj\Debug\QuanLyBanDoGomLuuNiem.frm_TimKiemHoaDon.resources
+C:\Users\Truong Nguyen\source\repos\QuanLyBanDoGomLuuNiem\QuanLyBanDoGomLuuNiem\obj\Debug\QuanLyBanDoGomLuuNiem.Properties.Resources.resources
+C:\Users\Truong Nguyen\source\repos\QuanLyBanDoGomLuuNiem\QuanLyBanDoGomLuuNiem\obj\Debug\QuanLyBanDoGomLuuNiem.csproj.GenerateResource.cache
+C:\Users\Truong Nguyen\source\repos\QuanLyBanDoGomLuuNiem\QuanLyBanDoGomLuuNiem\obj\Debug\QuanLyBanDoGomLuuNiem.csproj.CoreCompileInputs.cache
+C:\Users\Truong Nguyen\source\repos\QuanLyBanDoGomLuuNiem\QuanLyBanDoGomLuuNiem\obj\Debug\QuanLyBanDoGomLuuNiem.exe
+C:\Users\Truong Nguyen\source\repos\QuanLyBanDoGomLuuNiem\QuanLyBanDoGomLuuNiem\obj\Debug\QuanLyBanDoGomLuuNiem.pdb
